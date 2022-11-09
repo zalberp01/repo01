@@ -1,2 +1,2 @@
 # repo01
-Repositório teste
+Repositório de teste
